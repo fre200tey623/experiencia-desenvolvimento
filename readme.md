@@ -4,12 +4,11 @@ Sou estudante de ciência da computação na Universidade Federal De Sergipe (UF
 
 - JavaScript
 - ReactJS e React Native
-- HTML, CSS e Sass
+- HTML, CSS
 - TailwindCSS
-- PostgreSQL e MySQL
+- PostgreSQL
 - C#/.NET
 - Figma (Prototipação)
-- Python, Pyautogui e TKinter
 - Flutter
 - Conhecimento em metodologias ágeis
 
